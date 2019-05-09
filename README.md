@@ -28,6 +28,11 @@ Gemini is a modern LaTeX [beamerposter] theme.
 
 1. Run `make` to build your poster
 
+# FAQ
+
+See the [FAQ] in the Wiki for answers to frequently asked questions such as how
+to add an institution logo to the poster.
+
 # Themes
 
 Gemini currently includes three color themes:
@@ -80,3 +85,4 @@ Copyright (c) 2018 Anish Athalye. Released under the MIT License. See
 [Raleway]: https://www.fontsquirrel.com/fonts/raleway
 [Lato]: https://www.fontsquirrel.com/fonts/lato
 [license]: LICENSE.md
+[FAQ]: https://github.com/anishathalye/gemini/wiki/FAQ
