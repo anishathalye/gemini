@@ -12,6 +12,8 @@ DEPS := \
 LATEX  := lualatex
 BIBTEX := bibtex
 
+LATEXOPTS := -interaction nonstopmode
+
 TARGETS := $(patsubst %, %.pdf, $(BUILD))
 
 # phony targets
@@ -27,7 +29,7 @@ clean:
 
 poster.pdf: poster.tex poster.bib $(DEPS)
 	$(eval SRC_$@ = $(patsubst %.tex, %, $<))
-	$(LATEX) $(SRC_$@)
+	$(LATEX) $(LATEXOPTS) $(SRC_$@)
 	$(BIBTEX) $(SRC_$@)
-	$(LATEX) $(SRC_$@)
-	$(LATEX) $(SRC_$@)
+	$(LATEX) $(LATEXOPTS) $(SRC_$@)
+	$(LATEX) $(LATEXOPTS) $(SRC_$@)

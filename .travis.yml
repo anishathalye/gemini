@@ -1,0 +1,14 @@
+language: generic
+dist: xenial
+addons:
+  apt:
+    update: true
+    packages:
+      - texlive-latex-extra
+      - texlive-fonts-recommended
+      - texlive-fonts-extra
+      - lmodern
+      - texlive-luatex
+      - texlive-xetex
+script:
+  - make poster.pdf
