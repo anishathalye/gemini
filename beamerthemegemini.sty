@@ -103,13 +103,13 @@
 \newcommand{\logoright}[1]{
   \newcommand{\insertlogoright}{#1}
   \settowidth{\logorightwidth}{\insertlogoright}
-  \addtolength{\logorightwidth}{2cm}
+  \addtolength{\logorightwidth}{5ex}
   \setlength{\maxlogowidth}{\maxof{\logoleftwidth}{\logorightwidth}}
 }
 \newcommand{\logoleft}[1]{
   \newcommand{\insertlogoleft}{#1}
   \settowidth{\logoleftwidth}{\insertlogoleft}
-  \addtolength{\logoleftwidth}{2cm}
+  \addtolength{\logoleftwidth}{5ex}
   \setlength{\maxlogowidth}{\maxof{\logoleftwidth}{\logorightwidth}}
 }
 
@@ -119,9 +119,13 @@
   \begin{beamercolorbox}{headline}
     \begin{columns}
       \begin{column}{\maxlogowidth}
-        \centering
+        \vskip5ex
         \ifdefined\insertlogoleft
+        \vspace*{\fill}
+        \hspace{5ex}
+        \raggedright
         \insertlogoleft
+        \vspace*{\fill}
         \else\fi
       \end{column}
       \begin{column}{\dimexpr\paperwidth-\maxlogowidth-\maxlogowidth}
@@ -133,9 +137,13 @@
         {\usebeamerfont{headline institute}\usebeamercolor[fg]{headline institute}\insertinstitute\\[1ex]}
       \end{column}
       \begin{column}{\maxlogowidth}
-        \centering
+        \vskip5ex
         \ifdefined\insertlogoright
+        \vspace*{\fill}
+        \raggedleft
         \insertlogoright
+        \hspace{5ex}
+        \vspace*{\fill}
         \else\fi
       \end{column}
     \end{columns}
