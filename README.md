@@ -10,6 +10,8 @@ Gemini is a modern LaTeX [beamerposter] theme.
 
 [![Build Status](https://travis-ci.org/anishathalye/gemini.svg?branch=master)](https://travis-ci.org/anishathalye/gemini)
 
+If you're looking for a beamer presentation theme, take a look at [Auriga].
+
 # Dependencies
 
 * A TeX installation that includes [LuaTeX]
@@ -82,6 +84,7 @@ Copyright (c) 2018-2019 Anish Athalye. Released under the MIT License. See
 [LICENSE.md][license] for details.
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
+[Auriga]: https://github.com/anishathalye/auriga
 [LuaTeX]: http://www.luatex.org/
 [CTAN]: https://ctan.org/
 [Raleway]: https://www.fontsquirrel.com/fonts/raleway
