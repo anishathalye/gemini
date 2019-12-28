@@ -8,7 +8,7 @@ Gemini is a modern LaTeX [beamerposter] theme.
 </a>
 </p>
 
-[![Build Status](https://travis-ci.org/anishathalye/gemini.svg?branch=master)](https://travis-ci.org/anishathalye/gemini)
+[![Build Status](https://travis-ci.com/anishathalye/gemini.svg?branch=master)](https://travis-ci.com/anishathalye/gemini)
 
 If you're looking for a beamer presentation theme, take a look at [Auriga].
 
