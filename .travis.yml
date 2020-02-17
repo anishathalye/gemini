@@ -10,5 +10,6 @@ addons:
       - lmodern
       - texlive-luatex
       - texlive-xetex
+      - latexmk
 script:
   - make poster.pdf
