@@ -10,3 +10,5 @@
 *.out
 *.snm
 *.toc
+*.fdb_latexmk
+*.fls
