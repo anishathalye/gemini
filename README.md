@@ -13,6 +13,7 @@ If you're looking for a beamer presentation theme, take a look at [Auriga].
 ## Dependencies
 
 * A TeX installation that includes [LuaTeX]
+    * You also need `latexmk` if you want to use the provided `Makefile`
 * LaTeX package dependencies including beamerposter (these usually come with
   your TeX installation, but if not, you can get them from [CTAN])
 * [Raleway] and [Lato], which are both available under Open Font License
