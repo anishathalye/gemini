@@ -1,4 +1,4 @@
-# Gemini [![Build Status](https://travis-ci.com/anishathalye/gemini.svg?branch=master)](https://travis-ci.com/anishathalye/gemini)
+# Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 Gemini is a modern LaTeX [beamerposter] theme.
 

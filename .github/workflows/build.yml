@@ -1,0 +1,21 @@
+name: CI
+on:
+  push:
+  schedule:
+    - cron: '0 8 * * 6'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo apt-get update -y
+      - run: >-
+          sudo apt-get install -y
+          texlive-latex-extra
+          texlive-fonts-recommended
+          texlive-fonts-extra
+          lmodern
+          texlive-luatex
+          texlive-xetex
+          latexmk
+      - uses: actions/checkout@v2
+      - run: make poster.pdf
