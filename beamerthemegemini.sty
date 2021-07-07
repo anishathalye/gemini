@@ -205,6 +205,33 @@
   \vspace*{2ex}
 }
 
+% Example Block
+\setbeamertemplate{block example begin}
+{
+	\begin{beamercolorbox}[colsep*=0ex,dp=2ex,center]{block example title}
+		\vskip0pt
+		\usebeamerfont{block title}\insertblocktitle
+		\vskip-1.25ex
+		\begin{beamercolorbox}[colsep=0.025ex]{block example separator}\end{beamercolorbox}
+	\end{beamercolorbox}
+	{\parskip0pt\par}
+	\usebeamerfont{block body}
+	\vskip-0.5ex
+	\begin{beamercolorbox}[colsep*=0ex]{block example body}
+		\justifying
+		\begin{adjustwidth}{1ex}{1ex}
+			\setlength{\parskip}{1ex}
+			\vskip-2ex
+		}
+		\setbeamertemplate{block example end}
+		{
+		\end{adjustwidth}
+		\vskip1ex
+	\end{beamercolorbox}
+	\vskip0pt
+	\vspace*{2ex}
+}
+
 % Footer
 \newcommand{\footercontent}[1]{\newcommand{\insertfootercontent}{#1}}
 
