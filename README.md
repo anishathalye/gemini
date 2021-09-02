@@ -3,8 +3,8 @@
 Gemini is a modern LaTeX [beamerposter] theme.
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-gemini-small.png">
+<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
+<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
 </a>
 </p>
 
@@ -51,16 +51,16 @@ really easy!) or use the default Gemini theme.
 ### MIT theme
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-mit.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-mit-small.png">
+<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-mit.pdf">
+<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-mit-small.png">
 </a>
 </p>
 
 ### LabSix theme
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-labsix.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-labsix-small.png">
+<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-labsix.pdf">
+<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-labsix-small.png">
 </a>
 </p>
 
