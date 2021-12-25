@@ -47,12 +47,10 @@
 % ====================
 
 % List
-\makeatletter
 \def\@listi{\leftmargin\leftmarginii
 \topsep 1ex % spacing before
 \parsep 0\p@ \@plus\p@
 \itemsep 0.5ex} % spacing between
-\makeatother
 
 % Itemize
 
@@ -132,9 +130,15 @@
         \usebeamerfont{headline}
         \vskip3ex
         \centering
+        \ifx \inserttitle \empty \else
         {\usebeamerfont{headline title}\usebeamercolor[fg]{headline title}\inserttitle\\[0.5ex]}
+        \fi
+        \ifx \beamer@shortauthor \empty \else
         {\usebeamerfont{headline author}\usebeamercolor[fg]{headline author}\insertauthor\\[1ex]}
+        \fi
+        \ifx \insertinstitute \empty \else
         {\usebeamerfont{headline institute}\usebeamercolor[fg]{headline institute}\insertinstitute\\[1ex]}
+        \fi
       \end{column}
       \begin{column}{\maxlogowidth}
         \vskip5ex
