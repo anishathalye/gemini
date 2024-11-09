@@ -44,9 +44,7 @@ Gemini currently includes three color themes:
 * `mit`
 * `labsix`
 
-The alternative themes are intended to be inspiration for you to make your own
-color theme. You're highly recommended to make your own color theme (it's
-really easy!) or use the default Gemini theme.
+It's also easy to make your own!
 
 ### MIT theme
 
