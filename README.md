@@ -38,10 +38,11 @@ to add an institution logo to the poster.
 
 ## Themes
 
-Gemini currently includes three color themes:
+Gemini currently includes the following color themes:
 
 * `gemini` (default)
 * `mit`
+* `umich`
 * `labsix`
 
 It's also easy to make your own!
