@@ -43,6 +43,7 @@ The community has also contributed a number of themes:
 
 - `dart` ([Dartmouth College](https://dartmouth.edu))
 - `umich` ([University of Michigan](https://umich.edu/))
+- `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
 
 If you create a Gemini theme, feel free to send a pull request to add it here!
 
