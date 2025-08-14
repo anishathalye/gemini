@@ -45,6 +45,7 @@ The community has also contributed a number of themes:
 - `umich` ([University of Michigan](https://umich.edu/))
 - `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
 - `warwick` ([University of Warwick](https://warwick.ac.uk/))
+- `snu` ([Seoul National University](https://snu.ac.kr))
 
 If you create a Gemini theme, feel free to send a pull request to add it here!
 
