@@ -44,9 +44,9 @@
 \setbeamercolor{block alerted body}{fg=black,bg=stetsonaccent}
 
 % Example Block
-\setbeamercolor{block example title}{fg=stetsonforest,bg=stetsonlightgray}
+\setbeamercolor{block example title}{fg=stetsonforest,bg=stetsonsoftcream}
 \setbeamercolor{block example separator}{bg=black}
-\setbeamercolor{block example body}{fg=black,bg=stetsonlightgray}
+\setbeamercolor{block example body}{fg=black,bg=stetsonsoftcream}
 
 % Heading
 \setbeamercolor{heading}{fg=black}
@@ -65,3 +65,11 @@
 % Footline
 \setbeamercolor{footline}{fg=white,bg=stetsonforest}
 
+% ====================
+% Utilities
+% ====================
+
+% Accent box command
+\newcommand{\stetsonaccent}[1]{%
+  \colorbox{stetsonaccent}{\textcolor{stetsonforest}{#1}}%
+}
