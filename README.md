@@ -41,6 +41,7 @@ Gemini includes several color themes, and it's also easy to make your own. Gemin
 
 The community has also contributed a number of themes:
 
+- `stetson` ([Stetson University](https://stetson.edu))
 - `dart` ([Dartmouth College](https://dartmouth.edu))
 - `umich` ([University of Michigan](https://umich.edu/))
 - `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
