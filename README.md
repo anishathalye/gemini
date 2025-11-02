@@ -41,12 +41,14 @@ Gemini includes several color themes, and it's also easy to make your own. Gemin
 
 The community has also contributed a number of themes:
 
-- `stetson` ([Stetson University](https://stetson.edu))
-- `dart` ([Dartmouth College](https://dartmouth.edu))
-- `umich` ([University of Michigan](https://umich.edu/))
+<!-- keep these in sorted order by theme name -->
+
 - `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
-- `warwick` ([University of Warwick](https://warwick.ac.uk/))
+- `dart` ([Dartmouth College](https://dartmouth.edu))
 - `snu` ([Seoul National University](https://snu.ac.kr))
+- `stetson` ([Stetson University](https://stetson.edu))
+- `umich` ([University of Michigan](https://umich.edu/))
+- `warwick` ([University of Warwick](https://warwick.ac.uk/))
 
 If you create a Gemini theme, feel free to send a pull request to add it here!
 
