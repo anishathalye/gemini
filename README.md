@@ -46,6 +46,7 @@ The community has also contributed a number of themes:
 - `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
 - `dart` ([Dartmouth College](https://dartmouth.edu))
 - `snu` ([Seoul National University](https://snu.ac.kr))
+- `soton` ([University of Southampton](https://southampton.ac.uk/))
 - `stetson` ([Stetson University](https://stetson.edu))
 - `umich` ([University of Michigan](https://umich.edu/))
 - `warwick` ([University of Warwick](https://warwick.ac.uk/))
