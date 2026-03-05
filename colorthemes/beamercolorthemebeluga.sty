@@ -1,0 +1,34 @@
+% Gemini theme
+% https://github.com/anishathalye/gemini
+
+% Based on whale theme. Minimal adjustment needed to adapt to own style
+% Use \setbeamercolor{structure}{fg=...} to change to your own style colour
+
+\usecolortheme{whale}
+
+\mode<presentation>
+
+\setbeamercolor{headline}{parent=titlelike}
+
+\setbeamercolor{block separator}{bg=black}
+
+% Alert Block
+\setbeamercolor{block title alerted}{use=structure,fg=structure.fg,bg=structure.fg!10}
+\setbeamercolor{block separator alerted}{bg=black}
+\setbeamercolor{block body alerted}{parent=normal text,use=structure,bg=structure.fg!10}
+
+% Example Block
+\setbeamercolor{block title example}{use=structure,fg=structure.fg,bg=black!10}
+\setbeamercolor{block separator example}{bg=black}
+\setbeamercolor{block body example}{parent=normal text,bg=black!10}
+
+\setbeamercolor{heading}{use=normal text,fg=normal text.fg}
+
+\setbeamercolor{bibliography item}{parent=normal text}
+\setbeamercolor{bibliography entry author}{parent=normal text}
+\setbeamercolor{bibliography entry title}{parent=normal text}
+\setbeamercolor{bibliography entry location}{parent=normal text}
+\setbeamercolor{bibliography entry note}{parent=normal text}
+
+\mode
+<all>
