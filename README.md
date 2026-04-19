@@ -51,6 +51,7 @@ The community has also contributed a number of themes:
 - `stetson` ([Stetson University](https://stetson.edu))
 - `umich` ([University of Michigan](https://umich.edu/))
 - `warwick` ([University of Warwick](https://warwick.ac.uk/))
+- `iitgn` ([Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/))
 
 If you create a Gemini theme, feel free to send a pull request to add it here!
 
