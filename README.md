@@ -45,6 +45,7 @@ The community has also contributed a number of themes:
 
 - `beluga` (based on Beamer's `whale` colortheme)
 - `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
+- `czu` ([Czech University of Life Sciences](https://www.czu.cz/))
 - `dart` ([Dartmouth College](https://dartmouth.edu))
 - `snu` ([Seoul National University](https://snu.ac.kr))
 - `soton` ([University of Southampton](https://southampton.ac.uk/))
