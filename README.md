@@ -47,6 +47,7 @@ The community has also contributed a number of themes:
 - `bristol` ([University of Bristol](https://www.bristol.ac.uk/))
 - `czu` ([Czech University of Life Sciences](https://www.czu.cz/))
 - `dart` ([Dartmouth College](https://dartmouth.edu))
+- `iitgn` ([Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/))
 - `snu` ([Seoul National University](https://snu.ac.kr))
 - `soton` ([University of Southampton](https://southampton.ac.uk/))
 - `stetson` ([Stetson University](https://stetson.edu))
