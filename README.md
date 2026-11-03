@@ -49,6 +49,7 @@ The community has also contributed a number of themes:
 - `dart` ([Dartmouth College](https://dartmouth.edu))
 - `iitgn` ([Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/))
 - `kit` ([Karlsruhe Institute of Technology](https://www.kit.edu/))
+- `lfc` ([Lake Forest College](https://www.lakeforest.edu/))
 - `rochester` ([University of Rochester](https://www.rochester.edu/))
 - `snu` ([Seoul National University](https://snu.ac.kr))
 - `soton` ([University of Southampton](https://southampton.ac.uk/))
